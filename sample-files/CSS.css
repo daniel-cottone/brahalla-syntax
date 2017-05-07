@@ -231,13 +231,13 @@ pre {
 .content {
   padding: 30px;
 }
-.block {
+.syntax--block {
   display: block;
 }
-.inline {
+.syntax--inline {
   display: inline;
 }
-.inline-block {
+.syntax--inline-block {
   display: inline-block;
 }
 .bad {

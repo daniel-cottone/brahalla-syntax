@@ -12,7 +12,7 @@ module Sayings {
 var greeter = new Sayings.Greeter("world");
 
 var button = document.createElement('button');
-button.textContent = "Say Hello";
+button.syntax--textContent = "Say Hello";
 button.onclick = function() {
     alert(greeter.greet());
 };
