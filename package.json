@@ -1,7 +1,7 @@
 {
   "name": "brahalla-syntax",
   "theme": "syntax",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Brahalla Syntax - A dark colored syntax theme for Atom, based on Seti-Syntax.",
   "repository": "https://github.com/brahalla/brahalla-syntax",
   "license": "MIT",
